@@ -1,0 +1,3 @@
+# FullScreenActivity
+
+### Android Studio Template
